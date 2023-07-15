@@ -4,4 +4,5 @@ You can get help from these questions
 # Content 
   *searching problems*
   *sorting problems*
+*puzzle problems*
   
