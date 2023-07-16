@@ -5,4 +5,5 @@ You can get help from these questions
   *searching problems*
   *sorting problems*
 *puzzle problems*
+*hard questions*
   
