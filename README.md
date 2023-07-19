@@ -2,7 +2,7 @@
 Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 You can get help from these questions 
 # Content 
-  *searching problems*
+  *searching problems* <br/>
   *sorting problems* <br/>
 *puzzle problems* <br/>
 *hard questions* 
