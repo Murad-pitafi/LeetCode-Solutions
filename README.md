@@ -3,7 +3,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 You can get help from these questions 
 # Content 
   *searching problems*
-  *sorting problems*
+  *sorting problems* <br/>
 *puzzle problems* <br/>
 *hard questions* 
 <br/>
