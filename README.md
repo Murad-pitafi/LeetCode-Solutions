@@ -5,6 +5,6 @@ You can get help from these questions
   *Searching problems* <br/>
   *Sorting problems* <br/>
 *Puzzle problems* <br/>
-*hard questions* 
+*Hard questions* 
 <br/>
 *logical questions*
